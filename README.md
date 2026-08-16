@@ -20,6 +20,7 @@ Circuit Diagram
 
 
 
+<img width="1172" height="712" alt="image" src="https://github.com/user-attachments/assets/651ee41b-08de-4d9b-a475-971f81137876" />
 
 
 
@@ -46,6 +47,7 @@ Procedure
 Output:
 
 
+<img width="1918" height="1138" alt="image" src="https://github.com/user-attachments/assets/1e23658d-8be2-45d5-89df-f67edb7d94c7" />
 
 
 
@@ -56,6 +58,7 @@ Output:
 
 
 
+<img width="708" height="382" alt="image" src="https://github.com/user-attachments/assets/4e9cf00d-0fd9-46cd-87e7-8d43ff39ffeb" />
 
 
 
